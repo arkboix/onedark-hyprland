@@ -1,5 +1,7 @@
 # OneDark Hyprland
 
+> [!WARNING]  
+> The Wallpapers are not included, the wallaper used in the screenshots:  [Ja.KooLit's Wallpaper Bank](https://github.com/JaKooLit/Wallpaper-Bank/blob/main/wallpapers/Anime-Japan-Street.png)
 
 This is ArkboiX's hyprland dotfiles, specifically with One Dark colorscheme.
 ![image](https://github.com/user-attachments/assets/c8e7bec7-aa24-4ccd-82a1-f81a3974f098)
